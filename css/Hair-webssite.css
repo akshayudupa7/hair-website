@@ -1,0 +1,252 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.wrapper{
+    width:100%;
+    background-color: rgb(17, 107, 107);
+    height:150px;
+    margin-bottom:30px;
+
+}
+.navigation{
+    width:960px;
+    height:150px;
+    margin:0 auto;
+}
+.logo{
+    width:250px;
+    height:90px;
+    background-color: rgb(15, 11, 5);
+    position:relative;
+    top:70px;
+    float:left;
+
+}
+.logo h9{
+    font-size:50px;
+    font-weight:bolder;
+    color:white;
+    text-align:center;
+    margin-left:30px;
+    margin-top:80px;
+    position:relative;
+    top:20px;
+}
+ul{
+    float:right;
+    margin:0;
+    padding:0;
+}
+li{
+    margin-right:40px;
+    margin-top:100px;
+    float:left;
+    background-color:black;
+    padding:7px 12px;
+    list-style-type:none;
+
+}
+a{
+    text-decoration:none;
+    color:white;
+}
+
+.master{
+    width:960px;
+    margin:0 auto;
+    margin-bottom:20px;
+
+}
+
+.bigbox{
+    width:920px;
+    height:250px;
+    border:4px solid rgb(87, 160, 160);
+    margin-bottom:20px;
+}
+ img{
+    float:left;
+    width:265px;
+
+}
+ h1{
+     font-size:30px;
+     font-weight: bolder;
+     float:right;
+     margin-top:70px;
+     margin-right:130px;
+
+ }
+ .smallbox{
+     width:220px;
+     float:left;
+     margin-right:20px;
+ }
+ .smallbox img{
+     width:192px;
+     float:left;
+     border:4px solid rgb(16, 124, 119);
+     margin-bottom:30px;
+
+ }
+ .smallbox h8{
+     font-size:18px;
+     font-weight: bolder;
+     float:left;
+ }
+ .smallbox p{
+     line-height:30px;
+     font-size:13px;
+     clear:both;
+ }
+ .master2{
+     width:920px;
+     margin:0 auto;
+     clear:both;
+     margin-top:20px;
+
+ }
+ .leftbox{
+     width:440px;
+     border:solid 4px rgb(25, 180, 201);
+     float:left;
+     height:570px;
+ }
+ .featured{
+     width:120px;
+     height:40px;
+     background-color:rgb(2, 2, 20);
+     float:left;
+     position:relative;
+     top:-20px;
+     margin-left:18px;
+ }
+ .featured h5{
+     color:white;
+     font-size:17px;
+     text-align:center;
+     position:relative;
+     top:-20px;
+     margin-bottom:70px;
+   
+ }
+ .leftbox img{
+     width:80px;
+     clear:both;
+     float:left;
+     margin-left:20px;
+     margin-bottom:20px;
+ }
+ .leftbox h2{
+     float:right;
+     margin-right:110px;
+     margin-top:0px;
+     font-size:18px;
+
+}
+.leftbox p{
+    clear:both;
+    line-height:22px;
+    font-size:15px;
+    padding:10px;
+}
+ .righttop{
+    width:440px ;
+    height:280px;
+    background-color:rgb(15, 99, 81);
+    border:solid 5px rgb(16, 156, 133);
+    float:right;
+ }
+ .righttop p{
+     color:white;
+     line-height:30px;
+     font-size:14px;
+     float:left;
+     padding-left:20px;
+     padding-right:20px;
+ }
+ .righttop h6{
+     color:white;
+     font-size:14px;
+     float:right;
+     margin-right:15px;
+
+ }
+ .hairstyle{
+    width:120px;
+    height:40px;
+    background-color:rgb(2, 2, 20);
+    float:left;
+    position:relative;
+    top:-20px;
+    margin-left:18px
+}
+.hairstyle h5{
+    color:white;
+    font-size:17px;
+    text-align:center;
+    position:relative;
+    top:-20px;
+    margin-bottom:70px;
+}
+.rightbottom{
+    width:440px ;
+    height:220px;
+    background-color:rgb(16, 124, 88);
+    border:solid 5px rgb(13, 161, 172);
+    float:right;
+    margin-top:20px;
+}
+.rightbottom h7{
+    color:white;
+    float:right;
+    font-weight: bolder;
+    margin-top:30px;
+    margin-right:30px;
+    font-size:16px;
+    line-height:25px;
+
+}
+.rightbottom img{
+    width:190px;
+    position:relative;
+    top:-10px;
+
+}   
+.footer{
+    width:100%;
+    background-color:rgb(16, 97, 70);
+    float:left;
+    height:100px;
+    margin-top:20px;
+}
+.mid-footer{
+    width:960px;
+    margin:0 auto;
+}
+.mid-footer p{
+    color:white;
+    margin-top:30px;
+    margin-left:80px;
+    position:relative;
+    left:220px;
+    top:25px;
+
+}
+.social{
+    width:160px;
+    height:55px;
+    background-color: rgb(22, 70, 58);
+    float:right;
+    margin-right:20px;
+    padding-left:10px;
+    padding-right:10px;
+
+}
+.social span{
+    margin:20px 10px 0px;
+    text-align:center;
+}
+
+
+ 
